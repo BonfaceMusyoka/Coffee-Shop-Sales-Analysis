@@ -79,9 +79,20 @@ Visualizations were created using **Pivot Charts** for dynamic interaction and r
   - Charts & Slicers
 
 ## 💡 Key Insights  
-- Identified highest-revenue months and peak selling hours  
-- Uncovered busiest days of the week  
-- Analyzed top-selling drinks and payment preferences
+- March generated the highest revenue at $17,036, followed closely by October ($13,891) and February ($13,215). January recorded the lowest sales.
+- Mondays and Tuesdays were the busiest weekdays regarding sales transactions, while Sunday was the slowest.
+- Sales transactions rose significantly from 8 AM to 9 AM and peaked at 10 AM. The lowest activity occurred at 6 AM, 7 AM, and 10 PM.
+- Latte generated the most revenue among all drink types.($ 27,866)
+- Americano with Milk was the most popular drink based on the number of sales transactions.
+- Espresso ranked lowest in both transaction count and total revenue
+- Card payments accounted for 97.2% of all sales, while cash payments made up 2.76%.
+
+## Recommendations
+- Offer promotional deals on Sundays and early mornings (especially 6 AM to 8 AM) to boost traffic during low-activity periods.
+- Introduce “morning bundles” or time-limited offers around 10 AM to capitalize on the peak transaction hour.
+- Highlight Lattes and Americanos with Milk in special promotions since they lead in revenue and transaction count, respectively.
+- Reevaluate the Espresso offering—consider rebranding, bundling, or replacing it due to its low popularity.
+- Leverage high card usage (97.2%) by introducing digital loyalty programs or discounts for contactless payments.
 
 ## 📁 Files in this Repo  
 - `Coffee_Shop_Sales_Analysis.xlsx` – Full Excel workbook  
