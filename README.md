@@ -95,8 +95,10 @@ Visualizations were created using **Pivot Charts** for dynamic interaction and r
 - Leverage high card usage (97.2%) by introducing digital loyalty programs or discounts for contactless payments.
    
 ## 📂 Project Files
-- [📈 Coffee Sales Dataset (CSV)](data_raw/coffee%20sales%20dataset.csv)
-- [📊 Coffee Sales Analysis Dashboard (XLSX)](data_clean/coffee%20sales%20Analysis%20dashboard.xlsx)
+
+- 📈 [Coffee Sales Dataset (CSV)](data_raw/coffee%20sales%20dataset.csv) — *Preview available on GitHub*
+- 📊 [Coffee Sales Analysis Dashboard (XLSX)](data_clean/coffee%20sales%20Analysis%20dashboard.xlsx) — *File will download when clicked*
+
 
 
 
