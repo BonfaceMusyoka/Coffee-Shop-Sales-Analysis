@@ -93,8 +93,10 @@ Visualizations were created using **Pivot Charts** for dynamic interaction and r
 - Highlight Lattes and Americanos with Milk in special promotions since they lead in revenue and transaction count, respectively.
 - Reevaluate the Espresso offering—consider rebranding, bundling, or replacing it due to its low popularity.
 - Leverage high card usage (97.2%) by introducing digital loyalty programs or discounts for contactless payments.
+   
+## 📂 Project Files
+- [📈 Coffee Sales Dataset (CSV)](data_raw/coffee%20sales%20dataset.csv)
+- [📊 Coffee Sales Analysis Dashboard (XLSX)](data_clean/coffee%20Sales%20Analysis%20dashboard.xlx)
 
-## 📁 Files in this Repo  
-- `Coffee_Shop_Sales_Analysis.xlsx` – Full Excel workbook  
-- `README.md` – Project documentation  
+  
 
