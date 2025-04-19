@@ -11,7 +11,11 @@ This project analyzes a coffee shop's sales data using Microsoft Excel. The goal
 - Build an interactive dashboard with slicers for filtering
 
 ## 📊 Dataset Summary
-- **Source:** to be included
+ 🔗 Data Source
+
+- 📥 [Original Coffee Sales Dataset on Kaggle](https://www.kaggle.com/datasets/ihelon/coffee-sales)  
+  *Note: The dataset is periodically updated on Kaggle. While the structure (columns) remains consistent, the records may vary over time.*
+
 - **Fields Included:**
   - Date, Time
   - Payment Method
